@@ -1,0 +1,34 @@
+
+.naranja{
+    color: rgb(253, 252, 250);
+    background-color: orange;
+}
+.verde{
+    color: white;
+    background-color: rgb(143, 197, 61);
+}
+.morado{
+    color: white;
+    background-color: rgb(155, 81, 155);
+}
+.rosa{
+    color: white;
+    background-color: palevioletred;
+}
+.azul{
+    color: white;
+    background-color: rgb(25, 237, 252);
+}
+.hora-blanco{
+    color: rgb(252, 249, 249);
+}
+.negro{
+    color: rgb(250, 249, 244)}
+.blanco{
+    color: white;
+    background-color: black;
+}
+tr.fondo-negro{
+    background-color: black;
+
+}
